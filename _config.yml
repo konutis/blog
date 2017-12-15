@@ -6,7 +6,7 @@
 title: Mcjohn.lv
 email: mcjohn@inbox.lv
 description: A simple blog about frontend programming.
-url: https://konutis.github.io/blog/ # the base hostname & protocol for your site
+url: https://konutis.github.io/blog # the base hostname & protocol for your site
 keywords: ["Programming", "Frontend", "Javascript", "HTML5", "CSS3"]
 
 #
