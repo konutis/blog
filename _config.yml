@@ -3,11 +3,11 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
-email: zourenyuan@gmail.com
+title: mcjohn
+email: mcjohn@inbox.lv
 description: A simple and awesome blog theme powered by jekyll.
 url: https://konutis.github.io/blog/ # the base hostname & protocol for your site
-keywords: ["Programming", "PHP", "Ruby"]
+keywords: ["Programming", "Frontend", "Javascript", "HTML5", "CSS3"]
 
 #
 ###################################
@@ -37,7 +37,7 @@ owner:
   avatar: leonids-logo.png
   job: "PHP & Ruby Developer"
   bio: "A backend developer who loves design awesome things. Working for RendezvousCheznous atm in Marseille, France."
-  email: zourenyuan@gmail.com
+  email: mcjohn@inbox.lv
   disqus-shortname: renyuanzblog
   twitter: renyuan814 #username
   facebook: #username
@@ -48,7 +48,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: renyuanz #username
+  github: konutis #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: renyuan-zou-69b7038a #username
   xing: #username
