@@ -3,9 +3,9 @@
 # Site wide configuration
 ####################################
 #
-title: mcjohn
+title: Mcjohn.lv
 email: mcjohn@inbox.lv
-description: A simple and awesome blog theme powered by jekyll.
+description: A simple blog about frontend programming.
 url: https://konutis.github.io/blog/ # the base hostname & protocol for your site
 keywords: ["Programming", "Frontend", "Javascript", "HTML5", "CSS3"]
 
@@ -33,14 +33,14 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
-  avatar: leonids-logo.png
-  job: "PHP & Ruby Developer"
-  bio: "A backend developer who loves design awesome things. Working for RendezvousCheznous atm in Marseille, France."
+  name: Janis
+  avatar: mcjohn-photo.jpg
+  job: "Frontend Developer"
+  bio: "A frontend developer who loves learn and make new things. Working for WPBakery in Latvia."
   email: mcjohn@inbox.lv
-  disqus-shortname: renyuanzblog
-  twitter: renyuan814 #username
-  facebook: #username
+  disqus-shortname: mcjohnblog
+  twitter: #username
+  facebook: janis.konutis #username
   google:
     plus: #username
     analytics: UA-62251910-2
@@ -50,7 +50,7 @@ owner:
   bing-verify:
   github: konutis #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: renyuan-zou-69b7038a #username
+  linkedin: janiskonutis #username
   xing: #username
   instagram: #username
   lastfm: #username
