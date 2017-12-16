@@ -6,7 +6,7 @@
 title: mcjohn.lv
 email: mcjohn@inbox.lv
 description: A simple blog about frontend programming.
-url: mcjohn.lv # the base hostname & protocol for your site
+url: //mcjohn.lv # the base hostname & protocol for your site
 keywords: ["Programming", "Frontend", "Javascript", "HTML5", "CSS3"]
 
 #
