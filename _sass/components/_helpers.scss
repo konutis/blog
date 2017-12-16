@@ -192,3 +192,9 @@
 .warning-bg-color {
   background-color: $warning;
 }
+
+.btn-with-icon {
+  i {
+    margin-right: 7px;
+  }
+}
