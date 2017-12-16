@@ -31,9 +31,12 @@
   }
   .author_name {
     display: block;
-    color: #F36170;
     font-size: 1.75em;
     margin: 10px 0;
+    font-weight: 400;
+    a {
+      color: #F36170;
+    }
   }
   .author_job {
     display: block;
